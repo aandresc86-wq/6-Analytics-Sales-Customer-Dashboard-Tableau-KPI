@@ -13,6 +13,19 @@ Both views allow users to explore data dynamically through filtering by:
 
 ---
 
+## 🎯 Business Problem  
+Businesses need to understand sales performance and customer behavior to identify growth opportunities and optimize revenue strategies.
+
+---
+
+## ✅ Business Impact  
+- Delivered actionable insights into sales trends and customer segments  
+- Identified key revenue drivers and high-value customer groups  
+- Improved decision-making in sales and marketing strategies  
+- Enhanced visibility of business performance through KPI tracking  
+
+---
+
 ## 🎯 Business Context
 Organizations need clear and interactive reporting tools to monitor business performance, identify trends, and improve strategic decision-making.
 
